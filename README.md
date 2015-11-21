@@ -39,7 +39,7 @@ Ok, Won't Terminate Instance i-xxxxxxxx
 # Disclaimer
 
 This tool is dangerous if used improperly... It has the capability to destroy all your EC2 Instances if 
-not configured and used correctly.  See [LICENSE.md](LICENSE.md) where it says that this tool is provided
+not configured and used correctly.  See the [LICENSE](LICENSE) where it says that this tool is provided
 without warranty and you release all it's contributors of liability if you use it.
 
 Ok not fun stuff said : )
